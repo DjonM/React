@@ -1,0 +1,33 @@
+
+.header{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.header:hover{
+  color: grey;
+  text-decoration: none;
+}
+
+#spinner{
+  width: 300px;
+  margin-top: 60px;
+ }
+
+ #divMotion{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+.logo {
+
+
+
+}
+
+.logoImg {
+width: 50px;
+color: white;
+
+}
